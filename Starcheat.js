@@ -1,12 +1,14 @@
 // ==UserScript==
-// @name         Starcheat Client Loader Enhanced
-// @namespace    https://starblast.io/
-// @version      0.3
-// @description  Erweiterte Starcheat-Loader mit Menü, Radar Zoom, Fast Respawn, Lowercase Name, Zoom und Blank Emotes Cheats
-// @author       Du
+// @name         Starcheat Client
+// @namespace    ...
+// @version      1.0
+// @description  Cheat client for starblast.io
 // @match        https://starblast.io/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/Alexander-Karger/Starcheat/main/Starcheat.user.js
+// @downloadURL  https://raw.githubusercontent.com/Alexander-Karger/Starcheat/main/Starcheat.user.js
 // ==/UserScript==
+
 
 (function() {
     'use strict';
